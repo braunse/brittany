@@ -1,0 +1,7 @@
+resolver: lts-13.13
+
+extra-deps:
+  - ghc-exactprint-0.5.8.1
+  - butcher-1.3.2.1
+  - multistate-0.8.0.1
+
